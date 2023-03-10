@@ -99,7 +99,7 @@ nav a:hover{
 
 footer{
     text-align: center;
-    background: url(img/productos/bg.jpg);
+    background: url(/img/productos/bg.jpg);
     padding: 40px; /*espaciamiento interno*/
 }
 
@@ -170,7 +170,6 @@ p.test{
     color: orange;
 }
 */
-
 
 .enviar{
     width: 30%;
